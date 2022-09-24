@@ -1,0 +1,7 @@
+эхо "# ДЕ_Спринт" >> README.md
+ git init
+ git добавить README.md
+ git commit -m "первая фиксация"
+git branch -M main
+ git удаленное добавление источника https://github.com/dsoelma/DE_Sprint.git
+ git push -u origin основной
